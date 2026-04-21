@@ -1,4 +1,5 @@
-![tenor](https://github.com/user-attachments/assets/f0a7d000-6c20-4e53-80a0-f36ee2fc9d23)
+<img width="384" height="216" alt="BlackStarSoulEaterGIF" src="https://github.com/user-attachments/assets/b0c5f45b-e6be-4fd6-a3d6-a7ae628ada4a" />
+
 
 <!--
 **sholesy/sholesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
